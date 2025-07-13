@@ -5,7 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AZlQDLurnU-opkYPHKmR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="AZlQDLurnU-opkYPHKmR-1" target="AZlQDLurnU-opkYPHKmR-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="55" y="203" />
+              <mxPoint x="30" y="203" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AZlQDLurnU-opkYPHKmR-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="30" y="140" width="50" height="30" as="geometry" />
@@ -17,7 +22,7 @@
           <mxGeometry x="140" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AZlQDLurnU-opkYPHKmR-7" value="金祺宏公司" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5" y="235" width="85" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
