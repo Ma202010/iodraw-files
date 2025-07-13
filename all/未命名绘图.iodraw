@@ -4,11 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AZlQDLurnU-opkYPHKmR-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="30" y="170" width="50" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="AZlQDLurnU-opkYPHKmR-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;土石方工程合同&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="140" y="100" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AZlQDLurnU-opkYPHKmR-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;展治公司&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;arcSize=31;" vertex="1" parent="1">
           <mxGeometry x="160" y="270" width="90" height="50" as="geometry" />
